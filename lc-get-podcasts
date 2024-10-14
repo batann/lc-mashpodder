@@ -30,7 +30,7 @@
 # with in order to force the user to review this USER CONFIGURATION section
 # and set the various options. Uncomment and set to desired path.
 # Mashpodder will not create this directory for you.
-BASEDIR="/home/batan/.config/mashpodder"
+BASEDIR="/home/batan/.config/lc-mashpodder"
 
 # RSSFILE: Location of mp.conf file.  Can be changed to another file name.
 # Default is "$BASEDIR/mp.conf".
